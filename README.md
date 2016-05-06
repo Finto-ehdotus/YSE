@@ -1,3 +1,3 @@
 # YSE
 
-[http://dev.finto.fi/yse/fi/](YSOn ja YSAn käsite-ehdotukset Fintossa)
+[YSOn ja YSAn käsite-ehdotukset Fintossa](http://dev.finto.fi/yse/fi/)
