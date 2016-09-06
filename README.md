@@ -2,7 +2,7 @@
 
 Tämä on repositorio YSA/YSO -käsite-ehdotuksille. Voit selata ja kommentoida ehdotuksia [täällä](https://github.com/Finto-ehdotus/YSE/issues). Selailu onnistuu ilman GitHub-tunnuksia, mutta kommentointi edellyttää [tunnuksen luomista](https://github.com/join). Voit osoittaa tukesi ehdotukselle kommentoimalla sitä. Halutessasi voit nopeuttaa ehdotuksen käsittelyä, jättämällä ehdotuksen kommenttikenttään täsmennyksiä/lisätietoja. 
 
-Uuden termiehdotuksen tekeminen onnistuu täyttämällä [tämä lomake](http://ehdotus.finto.fi/#/new)
+Uuden termiehdotuksen tekeminen onnistuu täyttämällä [tämä lomake](http://ehdotus.finto.fi/#/new).
 
 ## Ehdotuksen elinkaari
 
