@@ -4,7 +4,7 @@ Tämä on repositorio YSA/YSO -käsite-ehdotuksille. Voit selata ja kommentoida 
 
 ## Ehdotuksen elinkaari
 
-Kun uusi ehdotus on luotu lomakkeella tarkastetaan ehdotus ylläpidon toimesta. Kun käsite-ehdotus hyväksytään siirrettäväksi Fintoon, lisätään ehdotukselle milestone vastaanotettu. Muutosehdotuksia ei tarvitse erikseen vahvistaa. Hyväksytyt uudet käsite-ehdotukset siirretään Finton ehdotukset sisältävään "sanastoon" [YSEen](http://finto.fi/yse/fi/) koneellisesti noin kerran päivässä ja samalla ne siirretään milestoneen "YSEssä". Uusi ehdotus näkyy fintossa yleensä tarkastuksesta seuraavana päivänä.
+Kun ehdotus uuden termin ottamisesta sanastoon on palautettu lomakkeella, tarkastetaan ehdotus ylläpidon toimesta. Ehdotus hylätään vain jos ehdotuksessa on asiattomuuksia tai jos ehdotusta ei ole luotu lomakkeen kautta. Kun käsite-ehdotus hyväksytään siirrettäväksi Fintoon, lisätään ehdotukselle milestone vastaanotettu. Muutosehdotuksia ei tarvitse erikseen vahvistaa. Hyväksytyt uudet käsite-ehdotukset siirretään Finton ehdotukset sisältävään "sanastoon" [YSEen](http://finto.fi/yse/fi/) koneellisesti noin kerran päivässä ja samalla ne siirretään milestoneen "YSEssä". Uusi ehdotus näkyy fintossa yleensä tarkastuksesta seuraavana päivänä.
 
 [Lomake ehdotusten tekemiseen](http://ehdotus.finto.fi/)
 
