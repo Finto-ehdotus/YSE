@@ -13,4 +13,4 @@ Kun ehdotus uuden termin ottamisesta sanastoon on palautettu lomakkeella, tarkas
 ## Palautteen jättäminen
 
 Voit lähettää palautetta ja kehitysehdotuksia osoitteeseen: finto-posti(ät)helsinki.fi .
-Lomakkeen kehitys lähdekoodeineen on avointa ja se tapahtuu [täällä](https://github.com/NatLibFi/Finto-suggestio/issues).
+Lomakkeen kehitysprosessi sekä ohjelman lähdekoodi on avointa. Seuraaminen ja kehitykseen osallistuminen onnistuu [täällä](https://github.com/NatLibFi/Finto-suggestio/issues).
