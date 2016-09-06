@@ -8,7 +8,7 @@ Kun uusi ehdotus on luotu lomakkeella tarkastetaan ehdotus ylläpidon toimesta. 
 
 [Lomake ehdotusten tekemiseen](http://ehdotus.finto.fi/)
 
-[YSOn ja YSAn käsite-ehdotukset Fintossa](http://finto.fi/yse/fi/)
+[Selaa käsite-ehdotuksia Fintossa](http://finto.fi/yse/fi/)
 
 ## Palautteen jättäminen
 
